@@ -10,7 +10,7 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	int **p;
 	int n, m;
-	int i, j, k;
+	unsigned int i, j, k;
 	printf_s("n=");
 	scanf_s("%d", &n);
 	printf_s("m=");
